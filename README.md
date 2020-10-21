@@ -1,4 +1,11 @@
-### Hi there 👋 ! I'm Antonio. WELCOME to my GitHub! 😄
+### Hi there 👋 ! I'm Antonio Jackson. WELCOME to my GitHub! 😄
+
+I'm a software developer and graduate of the back-end program at [The Turing School of Software & Design](https://github.com/turingschool). Before transitioning to software development, I worked in social services doing quality assurance and launching new public assistance programs. In my free time, you'll find me jogging, biking, hiking and/or camping in the great outdoors. I love discussing politics, history, pop music, and horrible reality television (shout out to The Hills!).  
+
+Random personal fact: I found out about Michael Jackson's death via Twitter before it was reported on the local news and my coworkers didn't believe me!
+
+**My LinkedIn**: [antonio-jackson-ii](https://www.linkedin.com/in/antonio-jackson-ii/)  
+**My Turing Projects**: [Turing-School-Projects](https://github.com/Turing-School-Projects)
 
 <!--
 **AntonioJacksonII/AntonioJacksonII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
