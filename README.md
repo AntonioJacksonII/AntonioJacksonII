@@ -1,6 +1,6 @@
 ### Hi there 👋 ! I'm Antonio Jackson. WELCOME to my GitHub! 😄
 
-I'm a software developer and graduate of the back-end program at [The Turing School of Software & Design](https://github.com/turingschool). Before transitioning to software development, I worked in social services doing quality assurance and launching new public assistance programs. In my free time, you'll find me jogging, biking, hiking and/or camping in the great outdoors. I love discussing politics, history, pop music, and horrible reality television (shout out to The Hills!).  
+I'm a software developer and graduate of the back-end program at [The Turing School of Software & Design](https://github.com/turingschool). Before transitioning to software development, I worked in social services doing quality assurance and launching new public assistance programs. In my free time, you'll find me jogging, biking, hiking and/or camping in the great outdoors. I love discussing politics, history, pop music, and horrible reality television (shout out to [The Hills](https://en.wikipedia.org/wiki/The_Hills_(TV_series))!).  
 
 Random personal fact: I found out about Michael Jackson's death via Twitter before it was reported on the local news and my coworkers didn't believe me!
 
