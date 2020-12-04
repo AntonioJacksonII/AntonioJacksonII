@@ -5,8 +5,8 @@ I'm a software developer and graduate of the back-end program at [The Turing Sch
 Random personal fact: I found out about Michael Jackson's death via Twitter before it was reported on the local news and my coworkers didn't believe me!
 
 **My LinkedIn**: [antonio-jackson-ii](https://www.linkedin.com/in/antonio-jackson-ii/)  
-**My Turing Projects**: [Turing-School-Projects](https://github.com/Turing-School-Projects)  
-**My Turing Portfolio Site**: [Antonio-Jackson's-Portfolio](https://alumni.turing.io/alumni/antonio-jackson)
+**My Turing Projects**: [Turing School Projects](https://github.com/Turing-School-Projects)  
+**My Turing Portfolio Site**: [Antonio Jackson's Portfolio](https://alumni.turing.io/alumni/antonio-jackson)
 
 <!--
 **AntonioJacksonII/AntonioJacksonII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
